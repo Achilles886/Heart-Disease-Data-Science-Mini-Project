@@ -14,4 +14,4 @@ I performed data cleaning, visualization (boxplots, pairplots), logistic regress
 This was my first time putting together a full data science workflow on a healthcare dataset. I learned a lot about the strengths and limits of simple models and the value of good data cleaning and visualisation.
 
 **Full Report:**  
-See [[HeartDiseaseProject_Report.pdf](HeartDiseaseProject_Report.pdf)](https://github.com/Achilles886/Heart-Disease-Data-Science-Mini-Project/blob/70efef0e10779d25a235999d1a07cda16ce31c1e/Heart%20Disease%20Data%20Science%20Mini.pdf) for a detailed writeup of all steps and findings.
+See Heart Disease Data Science Mini.pdf for a detailed writeup of all steps and findings.
